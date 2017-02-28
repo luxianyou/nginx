@@ -1,4 +1,7 @@
-`
+## 关键词：NGINX 网站前缀 PRIFEX
+## 去掉访问页面的前缀 
+
+'''
 server {
        listen       80;
        server_name  testcenter.jack.net 10.0.4.109;
@@ -25,4 +28,4 @@ server {
         }
 
 }
-`
+'''
